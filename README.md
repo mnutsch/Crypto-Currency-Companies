@@ -7,7 +7,7 @@ This is a list of crypto-currency related companies.
 NAME - CITY - DESCRIPTION - WEBSITE<br/>
 <ul>
 <li>XRAM Capital - Dallas, TX - "crypto asset exempt reporting advisor" - https://xram.capital/</li>
-<li>CryptoCousings - Arlington, TX - cryptocurrency related store with podcasts - https://cryptocousins.com</li>
+<li>CryptoCousins - Arlington, TX - cryptocurrency related store with podcasts - https://cryptocousins.com</li>
 <li>Bitfinix - ? - exchange - https://www.bitfinex.com/</li>
 <li>Coinbase - San Francisco, CA - exchange, "digital currency wallet and platform" - https://www.coinbase.com/about</li>
 <li>coinone - ? - exchange - ?</li>
