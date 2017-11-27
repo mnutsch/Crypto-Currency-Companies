@@ -74,4 +74,5 @@ NAME - CITY - DESCRIPTION - WEBSITE<br/>
 <li>Braziliex - ? - exchange - ?</li>
 <li>Coinnest - ? - exchange - ?</li>
 <li>Bisq - ? - exchange - ?</li>
+<li>ECRDX - Austin, TX - exchange - http://ercdex.com/</li>
 </ul>
