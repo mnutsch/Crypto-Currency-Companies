@@ -76,4 +76,15 @@ NAME - CITY - DESCRIPTION - WEBSITE<br/>
 <li>Coinnest - ? - exchange - ?</li>
 <li>Bisq - ? - exchange - ?</li>
 <li>ECRDX - Austin, TX - exchange - http://ercdex.com/</li>
+<li>TrueBit - Dallas-Fort Worth, TX - ? - ?</li>
+<li>Oaken Innovations - Dallas-Fort Worth, TX - ? - ?</li>
+<li>Chain Advisors - Dallas-Fort Worth, TX - ? - ?</li>
+<li>Majooler - Dallas-Fort Worth, TX - ? - ?</li>
+<li>Pactum - Dallas-Fort Worth, TX - ? - ?</li>
+<li>SmartChain - Dallas-Fort Worth, TX - ? - ?</li>
+<li>KickCity - Dallas-Fort Worth, TX - ? - ?</li>
+<li>Transmute - Dallas-Fort Worth, TX - ? - ?</li>
+<li>dExchange - Dallas-Fort Worth, TX - ? - ?</li>
+<li>Zero Waste Advocacy - Dallas-Fort Worth, TX - ? - ?</li>
+<li>D-Node - Dallas-Fort Worth, TX - ? - ?</li>
 </ul>
